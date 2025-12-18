@@ -6,7 +6,7 @@ Repositorio con página ficticia de una tienda de zapatillas online.
 
 ## Descripción 📝
 
-Proyecto realizado con WORDPRESS y plugings de la aplicación.
+Proyecto realizado con WORDPRESS. Uso de Elementor, Woocomerce y plugings de la aplicación.
 
 ## Vista previa en vivo 👀
 Puedes ver los ejercicios funcionando aquí: <br>
